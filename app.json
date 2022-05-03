@@ -1,18 +1,18 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "bowrain2",
+    "description": "Deploy bowrain2.",
+    "keywords": ["bowrain2"],
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "8fccd717-de15-406f-aac2-4832acfd6c91"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com/wzw2015/bowrain2",
+    "repository": "https://github.com/wzw2015/bowrain2",
     "stack": "container"
 }
